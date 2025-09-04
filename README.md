@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dhiwarya
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ANYTHING!
-- 📫 How to reach me dhewarya@gmail.com
+**Hi Dhiwa's here**
+
+I would like to define myself as a content creator that use programming as a way to realised my ideas into real.
 
 <!---
 dhiwarya/dhiwarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
